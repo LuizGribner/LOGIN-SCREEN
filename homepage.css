@@ -1,0 +1,70 @@
+div#cabecalho img#logo{
+display: block;
+position: relative;
+margin-top: 100px;
+margin-left: 285px;
+width: 150px;
+}
+div#tela-login{
+margin-left: 270px;
+margin-top: 80px;
+text-align: justify;
+}
+body{
+overflow:hidden;
+}
+hgroup span.center{
+display: block;
+position: relative;
+margin-left: 65px;
+font-weight: bold;
+}
+div#tela-login input#cEmail{
+padding: 5px;
+border-radius: 5px;
+background-color: rgba(0, 0, 0, 0.1);
+color: grey;
+border: none;
+width: 280px;
+height: 25px;
+margin-left: -53px;
+}
+div#tela-login input#cPassword{
+padding: 5px;
+border-radius: 5px;
+background-color: rgba(0, 0, 0, 0.1);
+color: grey;
+border: none;
+width: 280px;
+height: 25px;
+margin-left: -53px;
+}
+section#flex p#flexx{
+display:block;
+position: relative;
+margin-left: -50px;
+}
+a#link1{
+text-decoration: none;
+color: inherit;
+}
+button#botao-entrar{
+width: 230px;
+height: 30px;
+border-radius: 5px;
+background-color:dodgerblue;
+border: none;
+margin-left: -30px;
+}
+a#link2{
+text-decoration: none;
+color: inherit;
+}
+aside#lateral{
+position: absolute;
+width: 640px;
+height: 760px;
+left: 720px;
+top: 0px;
+opacity: 0.84;
+}
